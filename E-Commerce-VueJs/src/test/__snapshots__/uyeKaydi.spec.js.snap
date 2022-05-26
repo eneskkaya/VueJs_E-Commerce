@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`uyeOl Snapshot Testi 1`] = `
+"<div class=\\"container\\">
+  <div class=\\"uyelikHeader\\">
+    <div class=\\"logoBox\\"><img src=\\"src/assets/register.png\\" alt=\\"yok\\" style=\\"width: 60px; margin-top: 7px;\\"></div>
+    <h2>ÜYE OLMAK İSTİYORUM</h2>
+  </div>
+  <form>
+    <div><label>Adınız</label> <input type=\\"text\\" required=\\"required\\"> <label>Soyadınız</label> <input type=\\"text\\" required=\\"required\\"></div> <label>E-posta</label> <input type=\\"text\\" required=\\"required\\"> <label>Şifre</label> <input type=\\"password\\" required=\\"required\\"> <label>Şifre Tekrar</label> <input type=\\"password\\" required=\\"required\\"> <label>Doğrula</label>
+    <div class=\\"reCaptcha\\"><label class=\\"beniHatirla\\"><input type=\\"checkbox\\">Ben robot değilim
+      </label> <img src=\\"src/assets/recaptcha.png\\"></div> <label class=\\"beniHatirla\\"><input type=\\"checkbox\\">Özel kampanyalardan ilk sen haberdar ol
+      Kampanya ve Bülten, SMS, E-Postalarını Aydınlatma ve Rıza Metni
+      kapsamında almak istiyorum</label> <input type=\\"submit\\" value=\\"HESABIMI OLUŞTUR\\" class=\\"register_button\\">
+  </form>
+</div>"
+`;

@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sepetimdeki ürünlerin listelenmesi Snapshot Testi 1`] = `
+"<div class=\\"container clearfix\\">
+  <div class=\\"siparisToplamBox\\">
+    <div class=\\"siparisToplamInfo\\">
+      <div style=\\"font-size: 12px;\\">Kargo Ücreti</div>
+      <div style=\\"text-align: right;\\"><del style=\\"font-size: 12px;\\">11,90 TL</del><br>0,00 TL
+      </div>
+      <div style=\\"font-size: 14px; margin-top: 30px;\\"><b>Genel Toplam</b></div>
+      <div style=\\"text-align: right; color: orange; margin-top: 30px;\\">
+        899.40 TL (KDV Dahil)
+      </div>
+    </div> <button class=\\"btnSatinAl\\"><img src=\\"src/assets/satinalikon.png\\" alt=\\"yok\\" style=\\"width: 45px; margin-top: -10px; display: inline-block; float: left;\\">SATIN AL
+    </button>
+  </div>
+  <div class=\\"urunSepettekiler clearfix\\">
+    <div class=\\"urunBox clearfix\\">
+      <div class=\\"silmeButonDiv\\"><button>X</button></div>
+      <router-link-stub to=\\"[object Object]\\">
+        <div class=\\"urunResimDiv\\"><img src=\\"https://cdn.lensmarket.com/ext/urun/air-optix-hydraglyde-1-l.jpg\\" alt=\\"\\"></div>
+      </router-link-stub>
+      <div class=\\"urunAciklamaBody clearfix\\">
+        <router-link-stub to=\\"[object Object]\\">
+          <div class=\\"urunInfo\\">
+            <h3 class=\\"urunInfoTitle\\">Acuvue OASYS ® 1-Day 30 lu Kutu</h3>
+            <table>
+              <thead>
+                <tr>
+                  <td>Göz</td>
+                  <td>Dia</td>
+                  <td>Bc</td>
+                  <td>Sph (Pwr)</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Sol</td>
+                  <td>14:00</td>
+                  <td>8.40</td>
+                  <td>-12.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </router-link-stub>
+        <div class=\\"urunAdet\\"><select class=\\"urunAdetSelect\\">
+            <option value=\\"1\\" selected=\\"selected\\">1 Kutu</option>
+            <option value=\\"2\\">2 Kutu</option>
+            <option value=\\"3\\">3 Kutu</option>
+            <option value=\\"4\\">4 Kutu</option>
+          </select></div>
+        <div class=\\"urunFiyat\\"><span>449.70</span>
+          TL
+        </div>
+      </div>
+    </div>
+    <div class=\\"urunBox clearfix\\">
+      <div class=\\"silmeButonDiv\\"><button>X</button></div>
+      <router-link-stub to=\\"[object Object]\\">
+        <div class=\\"urunResimDiv\\"><img src=\\"https://cdn.lensmarket.com/ext/urun/air-optix-hydraglyde-1-l.jpg\\" alt=\\"\\"></div>
+      </router-link-stub>
+      <div class=\\"urunAciklamaBody clearfix\\">
+        <router-link-stub to=\\"[object Object]\\">
+          <div class=\\"urunInfo\\">
+            <h3 class=\\"urunInfoTitle\\">Acuvue OASYS ® 1-Day 30 lu Kutu</h3>
+            <table>
+              <thead>
+                <tr>
+                  <td>Göz</td>
+                  <td>Dia</td>
+                  <td>Bc</td>
+                  <td>Sph (Pwr)</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Sağ</td>
+                  <td>14:00</td>
+                  <td>8.40</td>
+                  <td>-12.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </router-link-stub>
+        <div class=\\"urunAdet\\"><select class=\\"urunAdetSelect\\">
+            <option value=\\"1\\" selected=\\"selected\\">1 Kutu</option>
+            <option value=\\"2\\">2 Kutu</option>
+            <option value=\\"3\\">3 Kutu</option>
+            <option value=\\"4\\">4 Kutu</option>
+          </select></div>
+        <div class=\\"urunFiyat\\"><span>449.70</span>
+          TL
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;

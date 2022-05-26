@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`login Snapshot Testi 1`] = `
+"<div class=\\"container\\">
+  <div class=\\"uyelikHeader\\">
+    <div class=\\"logoBox\\"><img src=\\"src/assets/uyegirisiprofil.png\\" alt=\\"yok\\" style=\\"width: 60px; margin-top: 7px;\\"></div>
+    <h2>Üye Girişi</h2>
+  </div>
+  <div class=\\"uyariBox\\">
+    <p>Lütfen üye girişi yapınız</p>
+  </div>
+  <form><label>E-posta adresiniz</label> <input type=\\"text\\" required=\\"required\\"> <label>Şifreniz</label> <input type=\\"password\\" required=\\"required\\"> <label>Doğrula</label>
+    <div class=\\"reCaptcha\\"><label class=\\"beniHatirla\\"><input type=\\"checkbox\\">Ben robot değilim
+      </label> <img src=\\"src/assets/recaptcha.png\\"></div> <label class=\\"beniHatirla\\"><input type=\\"checkbox\\">BENİ HATIRLA
+    </label> <input type=\\"submit\\" value=\\"GİRİŞ YAP\\" class=\\"login_button\\"> <a href=\\"#\\" class=\\"passwordLink\\"> Şifremi Unuttum</a>
+  </form>
+</div>"
+`;
